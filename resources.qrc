@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/qt.png</file>
+        <file>img/root.png</file>
+        <file>img/bios.png</file>
+        <file>img/system.png</file>
+        <file>img/baseboard.png</file>
+        <file>img/chassis.png</file>
+        <file>img/processor.png</file>
+        <file>img/memory.png</file>
+        <file>img/pci_dev.png</file>
+        <file>img/usb_dev.png</file>
+        <file>img/storage.png</file>
+        <file>img/host.png</file>
+        <file>img/timestamp.png</file>
+        <file>img/monitor.png</file>
+    </qresource>
+</RCC>
